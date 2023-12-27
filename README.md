@@ -6,7 +6,7 @@
 
 📚 Dual Perspective: Bridging the gap between software development and financial principles.
 
-🤝 Let's Connect: Open to collaborations and discussions. Reach out at YourEmail@example.com.
+🤝 Let's Connect: Open to collaborations and discussions.
 
 Let's innovate at the intersection of tech and finance! 🚀
 
