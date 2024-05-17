@@ -1,4 +1,6 @@
-👋 Hey there, I'm Twesigye Rachael Asasira , a software engineering student and Accounting and Finance graduate.
+# 👋 Hey there, I'm Twesigye Rachael Asasira : 
+
+I am a software engineering student and Accounting and Finance graduate.
 
 💻 Tech Enthusiast: I want to use coding skills to simplify accounting and finance processes.
 
